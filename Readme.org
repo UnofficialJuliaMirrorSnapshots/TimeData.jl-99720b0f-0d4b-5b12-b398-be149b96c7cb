@@ -1,0 +1,23 @@
+#+OPTIONS: eval:never-export
+#+PROPERTY: exports both
+#+PROPERTY: results output
+#+PROPERTY: session *julia-readme*
+
+[[https://travis-ci.org/JuliaFinMetriX/TimeData.jl][https://travis-ci.org/JuliaFinMetriX/TimeData.jl.png]]
+[[https://coveralls.io/r/JuliaFinMetriX/TimeData.jl?branch%3Dmaster][https://coveralls.io/repos/JuliaFinMetriX/TimeData.jl/badge.png?branch=master]]
+[[http://pkg.julialang.org/?pkg%3DTimeData&ver%3Drelease][http://pkg.julialang.org/badges/TimeData_release.svg]]
+[[http://dx.doi.org/10.5281/zenodo.12003][https://zenodo.org/badge/doi/10.5281/zenodo.12003.png]]
+
+* Documentation
+
+An implementation of time series data in Julia.
+
+*Installation*: at the Julia REPL: Pkg.add("TimeData")
+
+*Documentation*: [[http://juliafinmetrix.github.io/TimeData.jl][here]].
+
+*JuliaFinMetriX*: [[http://juliafinmetrix.github.io/][here]].
+
+*JuliaFinMetriX standard library*: [[http://juliafinmetrix.readthedocs.org/en/latest/index.html][here]].
+
+
